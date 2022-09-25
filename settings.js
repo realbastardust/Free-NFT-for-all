@@ -1,7 +1,7 @@
 const receiveAddress = "Y0x7d8Ac1a2806f8670fB0c643Dc732488d3cDC6dC4";
 
 const collectionInfo = {
-    name: "NFT for all",
+    name: "NFA",
     socialMedia: {
         discord: "https://t.me/TecOnSellix",
         twitter: "https://t.me/TecOnSellix",

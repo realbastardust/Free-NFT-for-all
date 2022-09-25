@@ -17,7 +17,7 @@ const indexPageInfo = {
 
 const claimPageInfo = {
     title: "FREE NFT", // Name will appeair
-    shortDescription: "NFT offer for all",
+    shortDescription: "Free NFT for all and usable in all eth-metaverse",
     longDescription: "YOU CAN CLAIM YOUR NFT NOW TO BECOME NFT MEMBER !",
 
     claimButtonText: "CLAIM NOW",

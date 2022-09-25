@@ -11,7 +11,7 @@ const collectionInfo = {
 
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
-    title: "NFT for all", // {name} will be replaced with collectionInfo.name
+    title: "NFA", // {name} will be replaced with collectionInfo.name
     underTitle: "Free NFT for all",
 }
 

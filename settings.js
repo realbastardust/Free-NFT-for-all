@@ -12,7 +12,7 @@ const collectionInfo = {
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
     title: "NFA", // {name} will be replaced with collectionInfo.name
-    underTitle: "Free NFT for all",
+    underTitle: "Free NFT for all and usable in all eth-metaverse",
 }
 
 const claimPageInfo = {

